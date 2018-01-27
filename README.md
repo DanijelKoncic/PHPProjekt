@@ -1,7 +1,7 @@
 # PHPProjekt
 PHP projekt iz predmeta WEB aplikacije
 
-Kako bi se pregledao projekt na svome računalu potrebno je pokrenuti xampp control panel te kroz njega startti Apache Web servis i MySql servis.
+Kako bi se pregledao projekt na svome računalu potrebno je pokrenuti xampp control panel te kroz njega startai Apache Web servis i MySql servis.
 
 Nakon toga u instalacijski direktorij xampp-a, u poddirektoriju htdocs kreirati novi direktorij naziva "PHPProjekt" te u njega kopirati sadržaj ovog repozitorija.
 
